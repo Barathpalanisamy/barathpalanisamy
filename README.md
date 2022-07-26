@@ -30,8 +30,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary> 
   <br> 
     <p> 
-    <a href="https://github.com/barathpalanisamy/github-readme-stats"><img alt="barathpalanisamy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=barathpalanisamy&show_icons=true&count_private=true&theme=algolia" height="192px" align="left"/></a> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barathpalanisamy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="barathpalanisamy" height="192px" align="right"/> </p>
+    <a href="https://github.com/barathpalanisamy/github-readme-stats"><img alt="barathpalanisamy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=barathpalanisamy&show_icons=true&count_private=true&theme=algolia" height="192px" align="left" width="40%"/></a> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barathpalanisamy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="barathpalanisamy" height="192px" align="right" width="50%"/> </p>
    <br>
    <br>
    <br>
