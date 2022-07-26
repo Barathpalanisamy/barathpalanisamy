@@ -2,6 +2,8 @@
 
 <img src="https://miro.medium.com/max/700/1*zlmwtg3fog11YXcU_rvfWA.gif" alt="Barath P" width="500" height="250" align="right">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barathpalanisamy&label=Profile%20views&color=0e75b6&style=flat" alt="Barathpalanisamy" /> </p>
+
  - 🔭 I’m currently working on **Thirvusoft**
 
 - 🌱 I’m currently learning **Flutter, ERPNext**
@@ -32,14 +34,9 @@
     <p> 
     <a href="https://github.com/barathpalanisamy/github-readme-stats"><img alt="barathpalanisamy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=barathpalanisamy&show_icons=true&count_private=true&theme=algolia" height="192px" align="left" width="45%"/></a> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barathpalanisamy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="barathpalanisamy" height="192px" align="right" width="45%"/> </p>
-   <br>
-   <br>
-   <br>
-   <br>
-  <br> 
-  <br>
-   <br>
-  <br> 
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barathpalanisamy&layout=compact&theme=algolia" alt="barathpalanisamy" align="center" /></p> 
+
+
   
 ## :trophy: Git profile Trophies 
  
