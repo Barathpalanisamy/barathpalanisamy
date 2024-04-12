@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barathpalanisamy&label=Profile%20views&color=0e75b6&style=flat" alt="Barathpalanisamy" /> </p>
 
-- 💬 Ask me about **Flutter, Dart, ERPNext**
+- 💬 Ask me about **Flutter, Dart,Frappe, ERPNext**
 
 - 📫 How to reach me **barathpalanisamy2002@gmail.com** 
 
